@@ -1,6 +1,10 @@
 # UART_FLASH_Project
 README: UART Data Transmission with EEPROM Storage
 
+Controller Used:    PIC16f877a
+Simulator : PICSimLab
+Serial Terminal : Cutecom
+
 Assignment Overview
 This assignment involved implementing a UART-based communication system to handle data transfer between a PC and an MCU, with real-time storage into the EEPROM memory. The focus was on effectively managing 256 bytes of EEPROM memory and providing real-time data transmission speed feedback during both reception and transmission. The project aimed to demonstrate efficient resource utilization under memory constraints while maintaining accurate performance monitoring.
 
